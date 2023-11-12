@@ -38,6 +38,7 @@
       >
         Close
       </button>
+      
     </div>
   </div>
 </template>
